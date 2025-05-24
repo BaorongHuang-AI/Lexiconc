@@ -1,0 +1,8 @@
+spacy==3.5.0
+concordancer
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pandas
+python-multipart
+wordlcloud
