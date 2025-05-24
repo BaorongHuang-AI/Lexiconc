@@ -1,0 +1,30 @@
+[
+  {
+    "baseLang": "en",
+    "desc": "英语"
+  },
+  {
+    "baseLang": "zh_CN",
+    "desc": "中文"
+  },
+  {
+    "baseLang": "fr",
+    "desc": "法语"
+  },
+  {
+    "baseLang": "es",
+    "desc": "西班牙语"
+  },
+  {
+    "baseLang": "de",
+    "desc": "德语"
+  },
+  {
+    "baseLang": "ru",
+    "desc": "俄语"
+  },
+  {
+    "baseLang": "ja",
+    "desc": "日语"
+  }
+]
